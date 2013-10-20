@@ -1,0 +1,21 @@
+#OS junk files
+[Tt]humbs.db
+*.DS_Store
+
+#2Moons cache files
+src/cache/*.php
+src/cache/sessions/*
+src/cache/templates/cache/*
+src/cache/templates/compile/*
+src/includes/backups/*
+src/includes/config.php
+src/includes/*.log
+
+#Subversion
+.svn
+
+#IDE Files
+.idea
+
+# Office Temp Files
+~$*
